@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.jiexiaoqiang.dottedline.MainActivity">
 
-    <com.jiexiaoqiang.dottedline.NumberProgressView
+    <com.jiexiaoqiang.dottedline.DottedLineView
         android:id="@+id/numberProgressView"
         android:layout_width="200dp"
         android:layout_height="50dp"
